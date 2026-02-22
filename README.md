@@ -17,3 +17,6 @@ Um assistente interativo em linha de comando para gerar arquivos de configuraç�
 1. Dê permissão de execução:
    ```bash
    chmod +x GeradorConfigBoot.sh
+2. Execute com o comando:
+   ```bash
+   ./GeradorConfigBoot.sh
